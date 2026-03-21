@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+python-multipart
+bcrypt
+requests
+httpx
+python-dotenv
