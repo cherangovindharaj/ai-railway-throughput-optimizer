@@ -8,6 +8,14 @@ An AI-powered system designed to optimize railway traffic, improve train schedul
 - AI-based scheduling optimization
 - Admin and Controller roles
 
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](https://github.com/cherangovindharaj/ai-railway-throughput-optimizer/raw/main/Dashboard.png)
+
+### TrackMap
+
+
 ## 🛠 Tech Stack
 - Backend: Python
 - Frontend: React
