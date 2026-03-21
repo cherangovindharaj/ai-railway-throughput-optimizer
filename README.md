@@ -14,6 +14,9 @@ An AI-powered system designed to optimize railway traffic, improve train schedul
 ![Dashboard](https://github.com/cherangovindharaj/ai-railway-throughput-optimizer/raw/main/Dashboard.png)
 
 ### TrackMap
+<p align="center">
+  <img src="https://github.com/cherangovindharaj/ai-railway-throughput-optimizer/raw/main/Trackmap.png" width="800"/>
+</p>
 
 
 ## 🛠 Tech Stack
