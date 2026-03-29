@@ -1,4 +1,4 @@
-# Secret files - NEVER push to GitHub!
+# Secret files 
 .env
 *.env
 backend/.env
